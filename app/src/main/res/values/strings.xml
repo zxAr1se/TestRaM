@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test RaM</string>
+    <string name="avatar_character">avatar character</string>
+    <string name="background_frame">background frame</string>
+    <string name="status">Status  :</string>
+    <string name="alive">alive</string>
+    <string name="species">species   :</string>
+    <string name="species_response">species response</string>
+    <string name="internetStatusOffline">Some Internet Error</string>
+</resources>
